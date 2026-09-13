@@ -1,2 +1,4 @@
-# sky_wings
-Sky: Light Encounter, Wingless Protection.Prevent your game account from being maliciously attacked by cheating users
+光遇无翼守护
+拦截光翼获取
+拦截永久翼获取
+拦截献祭光翼
